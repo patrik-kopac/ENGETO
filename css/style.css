@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(226, 245, 226);
+}
+
+.intro,
+.summary,
+.work,
+.education,
+.skills {
+  width: 70vw;
+}
